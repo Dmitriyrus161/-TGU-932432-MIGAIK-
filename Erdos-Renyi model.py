@@ -1,5 +1,5 @@
 import networkx as nx
-number_of_nodes = 20
+number_of_nodes = 22
 random_edge_percent = 0.2
 G = nx.erdos_renyi_graph(number_of_nodes, random_edge_percent)
 a = 0
